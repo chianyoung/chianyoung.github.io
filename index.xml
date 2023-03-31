@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://chianyoung.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 12:06:42 +0800</lastBuildDate><atom:link href="https://chianyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo个人博客搭建</title>
+      <link>https://chianyoung.github.io/post/blog/</link>
+      <pubDate>Fri, 31 Mar 2023 12:06:42 +0800</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/blog/</guid>
+      <description>aaaaaaaaaaaaaaaaaaaaaaa bbbbbbbbbbbbbbbbbb bbbbbb v
+d a df
+d fa sd f asd f a
+adf a f asd f as df
+asd f sd wdqv dsfsdfgsdfsdfgsdfgsdf sdf sfdg sdffsd :qui</description>
+    </item>
+    
+  </channel>
+</rss>
