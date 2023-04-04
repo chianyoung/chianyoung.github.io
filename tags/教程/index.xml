@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 on lyy个人博客</title>
-    <link>https://example.com/tags/%E6%95%99%E7%A8%8B/</link>
+    <link>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</link>
     <description>Recent content in 教程 on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 03 Apr 2023 09:20:25 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown语法学习</title>
-      <link>https://example.com/post/blog/</link>
+      <link>https://chianyoung.github.io/post/blog/</link>
       <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
       
-      <guid>https://example.com/post/blog/</guid>
+      <guid>https://chianyoung.github.io/post/blog/</guid>
       <description>字体 *用**括住表示斜体，或者_ _括住*
 **加粗，开头，结尾，以 **开头和结尾 **
 段落 ## 二级标题 CTRL+2 ……

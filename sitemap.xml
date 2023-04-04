@@ -3,156 +3,156 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://chianyoung.github.io/</loc>
     <lastmod>2023-04-03T09:20:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/blog/</loc>
+    <loc>https://chianyoung.github.io/post/blog/</loc>
     <lastmod>2023-04-03T09:20:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://chianyoung.github.io/post/</loc>
     <lastmod>2023-04-03T09:20:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://chianyoung.github.io/tags/</loc>
     <lastmod>2023-04-03T09:20:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-04-03T09:20:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/creating-a-new-theme/</loc>
+    <loc>https://chianyoung.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
+    <loc>https://chianyoung.github.io/tags/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://chianyoung.github.io/tags/themes/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/goisforlovers/</loc>
+    <loc>https://chianyoung.github.io/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/configuration/</loc>
+    <loc>https://chianyoung.github.io/tags/configuration/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/development/</loc>
+    <loc>https://chianyoung.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/docs/</loc>
+    <loc>https://chianyoung.github.io/tags/docs/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/hugoisforlovers/</loc>
+    <loc>https://chianyoung.github.io/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/go/</loc>
+    <loc>https://chianyoung.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/golang/</loc>
+    <loc>https://chianyoung.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
+    <loc>https://chianyoung.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/tutorial/</loc>
+    <loc>https://chianyoung.github.io/tags/tutorial/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/jekyll/</loc>
+    <loc>https://chianyoung.github.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/migrate-from-jekyll/</loc>
+    <loc>https://chianyoung.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/test/</loc>
+    <loc>https://chianyoung.github.io/tags/test/</loc>
     <lastmod>1012-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-9/</loc>
+    <loc>https://chianyoung.github.io/post/test-9/</loc>
     <lastmod>1012-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-8/</loc>
+    <loc>https://chianyoung.github.io/post/test-8/</loc>
     <lastmod>1012-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-7/</loc>
+    <loc>https://chianyoung.github.io/post/test-7/</loc>
     <lastmod>1012-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-6/</loc>
+    <loc>https://chianyoung.github.io/post/test-6/</loc>
     <lastmod>1012-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-5/</loc>
+    <loc>https://chianyoung.github.io/post/test-5/</loc>
     <lastmod>1012-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-4/</loc>
+    <loc>https://chianyoung.github.io/post/test-4/</loc>
     <lastmod>1012-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-3/</loc>
+    <loc>https://chianyoung.github.io/post/test-3/</loc>
     <lastmod>1012-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-2/</loc>
+    <loc>https://chianyoung.github.io/post/test-2/</loc>
     <lastmod>1012-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/test-1/</loc>
+    <loc>https://chianyoung.github.io/post/test-1/</loc>
     <lastmod>1012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://chianyoung.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://chianyoung.github.io/categories/</loc>
   </url>
   
 </urlset>
