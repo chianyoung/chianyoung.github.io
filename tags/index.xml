@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on lyy个人博客</title>
-    <link>https://chianyoung.github.io/tags/</link>
+    <link>chianyoung.github.io/tags/</link>
     <description>Recent content in Tags on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 03 Apr 2023 09:20:25 +0800</lastBuildDate>
     
-	<atom:link href="https://chianyoung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="chianyoung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>教程</title>
-      <link>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+      <link>chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
+      <guid>chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://chianyoung.github.io/tags/hugo/</link>
+      <link>chianyoung.github.io/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/hugo/</guid>
+      <guid>chianyoung.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://chianyoung.github.io/tags/themes/</link>
+      <link>chianyoung.github.io/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/themes/</guid>
+      <guid>chianyoung.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configuration</title>
-      <link>https://chianyoung.github.io/tags/configuration/</link>
+      <link>chianyoung.github.io/tags/configuration/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/configuration/</guid>
+      <guid>chianyoung.github.io/tags/configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://chianyoung.github.io/tags/development/</link>
+      <link>chianyoung.github.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/development/</guid>
+      <guid>chianyoung.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>https://chianyoung.github.io/tags/docs/</link>
+      <link>chianyoung.github.io/tags/docs/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/docs/</guid>
+      <guid>chianyoung.github.io/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://chianyoung.github.io/tags/go/</link>
+      <link>chianyoung.github.io/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/go/</guid>
+      <guid>chianyoung.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://chianyoung.github.io/tags/golang/</link>
+      <link>chianyoung.github.io/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/golang/</guid>
+      <guid>chianyoung.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://chianyoung.github.io/tags/templates/</link>
+      <link>chianyoung.github.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/templates/</guid>
+      <guid>chianyoung.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://chianyoung.github.io/tags/tutorial/</link>
+      <link>chianyoung.github.io/tags/tutorial/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/tutorial/</guid>
+      <guid>chianyoung.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>https://chianyoung.github.io/tags/jekyll/</link>
+      <link>chianyoung.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/jekyll/</guid>
+      <guid>chianyoung.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://chianyoung.github.io/tags/test/</link>
+      <link>chianyoung.github.io/tags/test/</link>
       <pubDate>Thu, 09 Jan 1012 00:00:00 +0000</pubDate>
       
-      <guid>https://chianyoung.github.io/tags/test/</guid>
+      <guid>chianyoung.github.io/tags/test/</guid>
       <description></description>
     </item>
     
