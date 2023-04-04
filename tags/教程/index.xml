@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on lyy个人博客</title>
+    <link>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on lyy个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Apr 2023 09:20:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown语法学习</title>
+      <link>https://chianyoung.github.io/post/blog/</link>
+      <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/blog/</guid>
+      <description>字体 *用**括住表示斜体，或者_ _括住*
+**加粗，开头，结尾，以 **开头和结尾 **
+段落 ## 二级标题 CTRL+2 ……
+六级标题 ctrl+6  引用效果
+  段落的，标识符和文字间有空格，符号为英文
+    演示列表 还可以有层级   666 77   爱丽丝  插入文章或其他元素 最常见的就是通过 []() 来插入链接和 ![]() 来插入图片（可以是本地图片也可以是网络图片）
+少数派
+dsjaflkjdkfjdkjfljdslfjdlkfj</description>
+    </item>
+    
+  </channel>
+</rss>
