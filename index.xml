@@ -5,10 +5,19 @@
     <link>https://chianyoung.github.io/</link>
     <description>Recent content on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Apr 2023 09:20:25 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Apr 2023 10:16:37 +0800</lastBuildDate>
     
 	<atom:link href="https://chianyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4</title>
+      <link>https://chianyoung.github.io/post/4.5/</link>
+      <pubDate>Thu, 06 Apr 2023 10:16:37 +0800</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/4.5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Markdown语法学习</title>
