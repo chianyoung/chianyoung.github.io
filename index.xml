@@ -11,28 +11,13 @@
     
     
     <item>
-      <title>Markdown语法学习测试</title>
-      <link>https://chianyoung.github.io/post/blog/</link>
-      <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/blog/</guid>
-      <description>字体 *用**括住表示斜体，或者_ _括住*
-**加粗，开头，结尾，以 **开头和结尾 **
-段落 ## 二级标题 CTRL+2 ……
-六级标题 ctrl+6  引用效果
-  段落的，标识符和文字间有空格，符号为英文
-    演示列表 还可以有层级   666 77   爱丽丝  插入文章或其他元素 最常见的就是通过 []() 来插入链接和 ![]() 来插入图片（可以是本地图片也可以是网络图片）
-少数派
-dsjaflkjdkfjdkjfljdslfjdlkfj</description>
-    </item>
-    
-    <item>
       <title>戒断手机总结</title>
       <link>https://chianyoung.github.io/post/%E6%88%92%E6%96%AD%E6%89%8B%E6%9C%BA%E6%80%BB%E7%BB%93/</link>
       <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
       
       <guid>https://chianyoung.github.io/post/%E6%88%92%E6%96%AD%E6%89%8B%E6%9C%BA%E6%80%BB%E7%BB%93/</guid>
       <description>戒断手机挑战总结 西八，当初就不应该夸下海口，说写什么总结，现在真吐不出什么象牙。20号了，当初定的期限的最后一天，利用ddl这一生产力吧。我知道说什么没有时间都是借口，只是我认为不够重要罢了。迟到的总结，也算是给自己一个交代。
+挑战原文
 实践原因：
 实践的必要性：许多人不太理解。事实是，我们都有一颗想改变的心，但却很难做到。因为这些产品设计出来就是榨干我们的注意力的，哪能那么轻易戒掉。而实践带来的感受是深刻的。这种更强制的手段或许是不错的选择。
 **实验结果评价：**完成程度良好：没有看智能手机；没有登陆微信，qq，等社交平台；没有浏览”新“闻。我确实没有什么证据，但你如果看我电脑使用时长，便会发现根本没有看手机的时间^_^。但看电脑毕也是我允许的，竟不具备便携性，不能随时随地。总不能躺在床上看吧……
@@ -58,21 +43,41 @@ dsjaflkjdkfjdkjfljdslfjdlkfj</description>
     </item>
     
     <item>
+      <title>Markdown语法学习测试</title>
+      <link>https://chianyoung.github.io/post/markdown/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/markdown/</guid>
+      <description>字体 *用**括住表示斜体，或者_ _括住*
+**加粗，开头，结尾，以 **开头和结尾 **
+段落 ## 二级标题 CTRL+2 ……
+六级标题 ctrl+6  引用效果
+  段落的，标识符和文字间有空格，符号为英文
+    演示列表 还可以有层级   666 77   爱丽丝  插入文章或其他元素 最常见的就是通过 []() 来插入链接和 ![]() 来插入图片（可以是本地图片也可以是网络图片）
+少数派
+dsjaflkjdkfjdkjfljdslfjdlkfj</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://chianyoung.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chianyoung.github.io/about/</guid>
-      <description>出生日期：2001.02.20（农历）
+      <description>自先沉稳，而后爱人。
+出生日期：2001.02.20（农历）
 星座：双鱼
 性别：男
 INFJ
 尽量现实的理想主义者
 经常做白日梦想家
 自卑到骨子里的极致自恋狂
-爱好：写不下了
+If you wanna change, be not afraid.
 Love you more than i can say.
-社交媒体：</description>
+爱好： 🎵🎬🛹📚💃 🎸🌷 🖋️🎨 📷 💌📆📙💜 🚶‍♂️🏓🏀⚽️🎱🃏🀄️⛷️🚴🎮 💻📱💰💴🧬🦠💊🔝🔝🔝
+社交媒体：
+豆瓣
+公众号</description>
     </item>
     
   </channel>
