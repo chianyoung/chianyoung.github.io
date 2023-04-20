@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>Hugo博客搭建 // lyy个人博客</title>
+    <link rel="shortcut icon" href="/5.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.63.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="lyy" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="/css/main.min.0fb49e70a30412f97ddfc418e18fefef1d9fcdebe45f634dbbba768b00fe1eec.css" />
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo博客搭建"/>
+<meta name="twitter:description" content="工作流：hugo生成静态页面&gt;git推送到网上
+最简流程  安装Hugo   https://github.com/gohugoio/hugo/releases找到相应版本压缩包，下载解压，保存到合理路径 如何看是否安装成功：打开cmd&gt;hugo version   安装git
+  利用Hugo创建自己的博客
+  进入到适合路径运行git bash或运行cd到相应路径
+hugo new site myblog #myblog为自己设定的文件夹名字,
+如无特殊说明，以下命令都是在myblog文件夹下输入的
+可以进入文件夹看到已经创建好了
+下载主题  https://themes.gohugo.io/选择自己喜欢的主题（这里以m10c为例）
+方法一：下载压缩包，解压到themes
+方法二：cd myblog
+git clone &lt;https://github.com/vaga/hugo-theme-m10c.git&gt; themes/m10c 可以看到themes文件夹下有m10c
+应用主题，用hugo serve本地预览  启动博客命令，输入 hugo server -t m10c --buildDrafts 可打开http://localhost:1313查看网站已经搭建好。网站会一直存在，CTRL&#43;C结束。
+创建文章  第一次：hugo new post/blog.md
+创建在了content下的post下的文件，md为markdown文件
+以后：直接在文件夹下增添或修改md文件即可
+可再输入：hugo server -t m10c --buildDrafts 网站会更新，因为你增添了新的内容。但是是搭载在本地。
+把博客部署到远端GitHub上  （1）创建仓库，命名为：chianyoung.github.io（前面替换为你自己的）
+​	（2）hugo --theme=m10c --baseUrl=&quot;地址&quot; --buildDrafts 成功后根目录生成一个public文件夹
+（3）将public上传到github仓库上"/>
+
+    <meta property="og:title" content="Hugo博客搭建" />
+<meta property="og:description" content="工作流：hugo生成静态页面&gt;git推送到网上
+最简流程  安装Hugo   https://github.com/gohugoio/hugo/releases找到相应版本压缩包，下载解压，保存到合理路径 如何看是否安装成功：打开cmd&gt;hugo version   安装git
+  利用Hugo创建自己的博客
+  进入到适合路径运行git bash或运行cd到相应路径
+hugo new site myblog #myblog为自己设定的文件夹名字,
+如无特殊说明，以下命令都是在myblog文件夹下输入的
+可以进入文件夹看到已经创建好了
+下载主题  https://themes.gohugo.io/选择自己喜欢的主题（这里以m10c为例）
+方法一：下载压缩包，解压到themes
+方法二：cd myblog
+git clone &lt;https://github.com/vaga/hugo-theme-m10c.git&gt; themes/m10c 可以看到themes文件夹下有m10c
+应用主题，用hugo serve本地预览  启动博客命令，输入 hugo server -t m10c --buildDrafts 可打开http://localhost:1313查看网站已经搭建好。网站会一直存在，CTRL&#43;C结束。
+创建文章  第一次：hugo new post/blog.md
+创建在了content下的post下的文件，md为markdown文件
+以后：直接在文件夹下增添或修改md文件即可
+可再输入：hugo server -t m10c --buildDrafts 网站会更新，因为你增添了新的内容。但是是搭载在本地。
+把博客部署到远端GitHub上  （1）创建仓库，命名为：chianyoung.github.io（前面替换为你自己的）
+​	（2）hugo --theme=m10c --baseUrl=&quot;地址&quot; --buildDrafts 成功后根目录生成一个public文件夹
+（3）将public上传到github仓库上" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://chianyoung.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" />
+<meta property="article:published_time" content="2023-04-03T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-04-03T00:00:00+00:00" />
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <a href="https://chianyoung.github.io"><img class="app-header-avatar" src="/2.jpg" alt="lyy" /></a>
+      <span class="app-header-title">lyy个人博客</span>
+      <nav class="app-header-menu">
+          <a class="app-header-menu-item" href="/">Home</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/tags/">Tags</a>
+             - 
+          
+          <a class="app-header-menu-item" href="/about/">Me</a>
+      </nav>
+      <p>Stay hungry, stay foolish.</p>
+      <div class="app-header-social">
+        
+          <a href="https://www.douban.com/people/233502735/" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="http://chianyoung.github.io" target="_blank" rel="noreferrer noopener me">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
+  <title>Emails</title>
+  <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
+</svg>
+          </a>
+        
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">Hugo博客搭建</h1>
+      <div class="post-meta">
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-calendar">
+  <title>calendar</title>
+  <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line>
+</svg>
+          Apr 3, 2023
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-clock">
+  <title>clock</title>
+  <circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline>
+</svg>
+          2 min read
+        </div>
+        <div>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tag">
+  <title>tag</title>
+  <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line>
+</svg>
+              <a class="tag" href="https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/">教程</a>
+        </div>
+      </div>
+    </header>
+    <div class="post-content">
+      <p>工作流：hugo生成静态页面&gt;git推送到网上</p>
+<h2 id="最简流程">最简流程</h2>
+<ol>
+<li>安装Hugo</li>
+</ol>
+<ul>
+<li><a href="https://github.com/gohugoio/hugo/releases">https://github.com/gohugoio/hugo/releases</a>找到相应版本压缩包，下载解压，保存到合理路径</li>
+<li>如何看是否安装成功：打开cmd&gt;hugo version</li>
+</ul>
+<ol start="2">
+<li>
+<p>安装git</p>
+</li>
+<li>
+<p>利用Hugo创建自己的博客</p>
+</li>
+</ol>
+<p>进入到适合路径运行git bash或运行cd到相应路径</p>
+<p><code>hugo new site myblog</code> #myblog为自己设定的文件夹名字,</p>
+<p>如无特殊说明，以下命令都是在myblog文件夹下输入的</p>
+<p>可以进入文件夹看到已经创建好了</p>
+<ol start="4">
+<li>下载主题</li>
+</ol>
+<p><a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>选择自己喜欢的主题（这里以m10c为例）</p>
+<p>方法一：下载压缩包，解压到themes</p>
+<p>方法二：cd myblog</p>
+<pre><code>git clone &lt;https://github.com/vaga/hugo-theme-m10c.git&gt; themes/m10c
+</code></pre><p>可以看到themes文件夹下有m10c</p>
+<ol start="5">
+<li>应用主题，用hugo serve本地预览</li>
+</ol>
+<p>启动博客命令，输入 <code>hugo server -t m10c --buildDrafts</code> 可打开http://localhost:1313查看网站已经搭建好。网站会一直存在，<code>CTRL+C</code>结束。</p>
+<ol start="6">
+<li>创建文章</li>
+</ol>
+<p>第一次：<code>hugo new post/blog.md</code></p>
+<p>创建在了content下的post下的文件，md为markdown文件</p>
+<p>以后：直接在文件夹下增添或修改md文件即可</p>
+<p>可再输入：<code>hugo server -t m10c --buildDrafts</code> 网站会更新，因为你增添了新的内容。但是是搭载在本地。</p>
+<ol start="7">
+<li>把博客部署到远端GitHub上</li>
+</ol>
+<p>（1）创建仓库，命名为：<a href="http://chianyoung.github.io">chianyoung.github.io</a>（前面替换为你自己的）</p>
+<p>​	<!-- raw HTML omitted --></p>
+<p>（2）<code>hugo --theme=m10c --baseUrl=&quot;地址&quot; --buildDrafts</code> 成功后根目录生成一个public文件夹</p>
+<p>（3）将public上传到github仓库上</p>
+<ul>
+<li>git init</li>
+<li>git add .</li>
+<li>git commit -m”提交的备注信息”</li>
+</ul>
+<p>（4）将本地public和远端GitHub关联</p>
+<pre><code>git remote add originhttps://github.com./chianyoung/chianyoung.github..git
+git push -u origin master
+</code></pre><h2 id="进阶个性化你的博客">进阶：个性化你的博客</h2>
+<ol>
+<li>利用主题模板:</li>
+</ol>
+<p>将themes文件夹下的相应的主题文件夹下下exampleSite的config.toml文件复制替换根目录下的相应文件。</p>
+<ol>
+<li>通过设置配置文件个性化博客</li>
+</ol>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#a6e22e">以m10c的config</span>.<span style="color:#a6e22e">toml配置文件为例子</span>
+
+<span style="color:#a6e22e">baseURL</span> = <span style="color:#e6db74">&#34;&lt;https://chianyoung.github.io&gt;&#34;</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">博客网址</span>
+<span style="color:#a6e22e">title</span> = <span style="color:#e6db74">&#34;lyy个人博客&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">主页个人博客名字</span>
+<span style="color:#a6e22e">theme</span> = <span style="color:#e6db74">&#34;m10c&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">博客选用哪个主题</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">如果选用其他的</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">config</span>.<span style="color:#a6e22e">toml文件应该大变</span><span style="color:#960050;background-color:#1e0010">。</span><span style="color:#a6e22e">去主题样例里寻找</span><span style="color:#960050;background-color:#1e0010">。</span>
+<span style="color:#a6e22e">paginate</span> = <span style="color:#ae81ff">8</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">一页有几篇文章</span>
+
+[<span style="color:#a6e22e">menu</span>]<span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">菜单</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">若想添加菜单</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">可按照下面格式</span>
+  [[<span style="color:#a6e22e">menu</span>.<span style="color:#a6e22e">main</span>]]
+    <span style="color:#a6e22e">identifier</span> = <span style="color:#e6db74">&#34;home&#34;</span>
+    <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Home&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">菜单1命名</span>
+    <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;/&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">菜单一链接</span>
+    <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">1</span>
+  [[<span style="color:#a6e22e">menu</span>.<span style="color:#a6e22e">main</span>]]
+    <span style="color:#a6e22e">identifier</span> = <span style="color:#e6db74">&#34;tags&#34;</span>
+    <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Tags&#34;</span>
+    <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;/tags/&#34;</span>
+    <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">2</span>
+  [[<span style="color:#a6e22e">menu</span>.<span style="color:#a6e22e">main</span>]]
+    <span style="color:#a6e22e">identifier</span> = <span style="color:#e6db74">&#34;about&#34;</span>
+    <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;About&#34;</span>
+    <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;/about/&#34;</span>
+    <span style="color:#a6e22e">weight</span> = <span style="color:#ae81ff">3</span>
+
+[<span style="color:#a6e22e">params</span>]<span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">主页参数</span>
+  <span style="color:#a6e22e">author</span> = <span style="color:#e6db74">&#34;lyy&#34;</span>
+  <span style="color:#a6e22e">description</span> = <span style="color:#e6db74">&#34;Stay hungry, stay foolish.&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">个人描述</span>
+  <span style="color:#a6e22e">menu_item_separator</span> = <span style="color:#e6db74">&#34; - &#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">菜单间的间隔符</span>
+	<span style="color:#a6e22e">avatar</span> = <span style="color:#e6db74">&#34;/2.jpg&#34;</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">头像路径</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#f92672">/</span><span style="color:#a6e22e">啥意思</span>
+  <span style="color:#a6e22e">favicon</span> = <span style="color:#e6db74">&#34;/5.ico&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">Absolute</span> <span style="color:#a6e22e">path</span> <span style="color:#a6e22e">of</span> <span style="color:#a6e22e">your</span> <span style="color:#a6e22e">favicon</span>.<span style="color:#a6e22e">ico</span> <span style="color:#a6e22e">file</span> (<span style="color:#66d9ef">default</span>: <span style="color:#960050;background-color:#1e0010">“</span><span style="color:#f92672">/</span><span style="color:#a6e22e">favicon</span>.<span style="color:#a6e22e">ico</span><span style="color:#960050;background-color:#1e0010">”</span>)<span style="color:#a6e22e">绝对路径</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">图片的绝对路径在static</span>
+ 
+<span style="color:#a6e22e">若添加社交链接</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">可参考以下设置</span>
+ [[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">social</span>]]
+    <span style="color:#a6e22e">icon</span> = <span style="color:#e6db74">&#34;github&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">社交图标</span>
+    <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Github&#34;</span>
+    <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;&lt;https://github.com/gohugoio&gt;&#34;</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">网址</span>
+  [[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">social</span>]]
+    <span style="color:#a6e22e">icon</span> = <span style="color:#e6db74">&#34;twitter&#34;</span>
+    <span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Twitter&#34;</span>
+    <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;&lt;https://twitter.com/gohugoio&gt;&#34;</span>
+
+  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#a6e22e">Default</span> <span style="color:#a6e22e">theme</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">style</span>]
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">darkestColor</span> = <span style="color:#e6db74">&#34;#242930&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">darkColor</span> = <span style="color:#e6db74">&#34;#353b43&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">lightColor</span> = <span style="color:#e6db74">&#34;#afbac4&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">lightestColor</span> = <span style="color:#e6db74">&#34;#ffffff&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">primaryColor</span> = <span style="color:#e6db74">&#34;#57cc8a&#34;</span>
+
+  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#a6e22e">Green</span> <span style="color:#a6e22e">theme</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">style</span>]
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">darkestColor</span> = <span style="color:#e6db74">&#34;#315659&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">darkColor</span> = <span style="color:#e6db74">&#34;#253031&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">lightColor</span> = <span style="color:#e6db74">&#34;#96a879&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">lightestColor</span> = <span style="color:#e6db74">&#34;#fff&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">primaryColor</span> = <span style="color:#e6db74">&#34;#dad865&#34;</span>
+
+  <span style="color:#960050;background-color:#1e0010">#</span> <span style="color:#a6e22e">Red</span> <span style="color:#a6e22e">theme</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">style</span>]
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">darkestColor</span> = <span style="color:#e6db74">&#34;#d35050&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">darkColor</span> = <span style="color:#e6db74">&#34;#212121&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">lightColor</span> = <span style="color:#e6db74">&#34;#d6d6d6&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">lightestColor</span> = <span style="color:#e6db74">&#34;#d3d3d3&#34;</span>
+  <span style="color:#960050;background-color:#1e0010">#</span>  <span style="color:#a6e22e">primaryColor</span> = <span style="color:#e6db74">&#34;#ffffff&#34;</span>
+</code></pre></div><ol>
+<li>修改主题：Add this line in the <code>config.toml</code> file:<code>theme = &quot;m10c”</code></li>
+<li>编辑博客文章：推荐使用Typora编辑，利用Markdown语言。</li>
+<li>更新博客内容到远端</li>
+</ol>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">提交更新</span><span style="color:#960050;background-color:#1e0010">（</span><span style="color:#a6e22e">根目录下</span><span style="color:#960050;background-color:#1e0010">）</span>
+<span style="color:#f92672">*</span><span style="color:#f92672">*</span><span style="color:#a6e22e">hugo</span> <span style="color:#f92672">--</span><span style="color:#a6e22e">theme</span>=<span style="color:#a6e22e">m10c</span> <span style="color:#f92672">--</span><span style="color:#a6e22e">baseUrl</span>=<span style="color:#e6db74">&#34;&lt;https://chianyoung.github.io&gt;&#34;</span> <span style="color:#f92672">--</span><span style="color:#a6e22e">buildDrafts</span>
+<span style="color:#a6e22e">cd</span> <span style="color:#a6e22e">public</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#960050;background-color:#1e0010">（</span><span style="color:#a6e22e">进入到public文件夹下</span><span style="color:#960050;background-color:#1e0010">）</span>
+<span style="color:#a6e22e">git</span> <span style="color:#a6e22e">add</span> .<span style="color:#f92672">*</span><span style="color:#f92672">*</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">将网站内容暂存</span>
+<span style="color:#f92672">*</span><span style="color:#f92672">*</span><span style="color:#a6e22e">git</span> <span style="color:#a6e22e">commit</span> <span style="color:#f92672">-</span><span style="color:#a6e22e">m</span> <span style="color:#e6db74">&#34;first commit&#34;</span><span style="color:#f92672">*</span><span style="color:#f92672">*</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">将暂存内容交给版本库</span>
+<span style="color:#f92672">*</span><span style="color:#f92672">*</span><span style="color:#a6e22e">git</span> <span style="color:#a6e22e">push</span> <span style="color:#f92672">-</span><span style="color:#a6e22e">u</span> <span style="color:#a6e22e">origin</span> <span style="color:#a6e22e">main</span><span style="color:#f92672">*</span><span style="color:#f92672">*</span> <span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">将本地内容推到远端仓库</span>
+
+<span style="color:#f92672">*</span><span style="color:#f92672">*</span><span style="color:#a6e22e">git</span> <span style="color:#a6e22e">push</span> <span style="color:#f92672">--</span><span style="color:#a6e22e">force</span><span style="color:#960050;background-color:#1e0010">#</span><span style="color:#a6e22e">强推</span><span style="color:#960050;background-color:#1e0010">（</span><span style="color:#a6e22e">如果上一条失败</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">用这个</span><span style="color:#960050;background-color:#1e0010">，</span><span style="color:#a6e22e">但不建议</span><span style="color:#960050;background-color:#1e0010">）</span><span style="color:#f92672">*</span><span style="color:#f92672">*</span>
+</code></pre></div><h2 id="根目录说明">根目录说明</h2>
+<pre><code>.
+├── archetypes      # 存放文章模板。如default.md储存创建md的模板文件。draft 表示该文章是否为草稿，如果是，那么后面生成静态页面时将不会含有该文章。
+├── config.toml     # 简单的配置文件
+├── content         # 存放文章
+├── public          # hugo生成的上传到 github的文件
+├── data            # 存放生成静态页面时的配置文件
+├── layouts         # 存放页面布局的模板
+├── static          # 存放图片
+└── themes          # 存放下载的主题
+</code></pre><h2 id="常见问题">常见问题</h2>
+<ul>
+<li>第一次push会让输入账号密码。自行google搜索</li>
+<li>hugo_extended and hugo</li>
+<li><em><strong>*warning: LF will be replaced by CRLF回车换行符*</strong></em></li>
+<li><code>git branch -M main</code>  把主分支的名字从 <code>master</code> 改为 <code>main</code>。</li>
+<li></li>
+</ul>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>

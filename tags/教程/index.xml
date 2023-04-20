@@ -11,6 +11,33 @@
     
     
     <item>
+      <title>Hugo博客搭建</title>
+      <link>https://chianyoung.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <description>工作流：hugo生成静态页面&amp;gt;git推送到网上
+最简流程  安装Hugo   https://github.com/gohugoio/hugo/releases找到相应版本压缩包，下载解压，保存到合理路径 如何看是否安装成功：打开cmd&amp;gt;hugo version   安装git
+  利用Hugo创建自己的博客
+  进入到适合路径运行git bash或运行cd到相应路径
+hugo new site myblog #myblog为自己设定的文件夹名字,
+如无特殊说明，以下命令都是在myblog文件夹下输入的
+可以进入文件夹看到已经创建好了
+下载主题  https://themes.gohugo.io/选择自己喜欢的主题（这里以m10c为例）
+方法一：下载压缩包，解压到themes
+方法二：cd myblog
+git clone &amp;lt;https://github.com/vaga/hugo-theme-m10c.git&amp;gt; themes/m10c 可以看到themes文件夹下有m10c
+应用主题，用hugo serve本地预览  启动博客命令，输入 hugo server -t m10c --buildDrafts 可打开http://localhost:1313查看网站已经搭建好。网站会一直存在，CTRL+C结束。
+创建文章  第一次：hugo new post/blog.md
+创建在了content下的post下的文件，md为markdown文件
+以后：直接在文件夹下增添或修改md文件即可
+可再输入：hugo server -t m10c --buildDrafts 网站会更新，因为你增添了新的内容。但是是搭载在本地。
+把博客部署到远端GitHub上  （1）创建仓库，命名为：chianyoung.github.io（前面替换为你自己的）
+​	（2）hugo --theme=m10c --baseUrl=&amp;quot;地址&amp;quot; --buildDrafts 成功后根目录生成一个public文件夹
+（3）将public上传到github仓库上</description>
+    </item>
+    
+    <item>
       <title>Markdown语法学习测试</title>
       <link>https://chianyoung.github.io/post/markdown/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
