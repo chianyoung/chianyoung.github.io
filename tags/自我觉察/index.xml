@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lyy个人博客</title>
-    <link>https://chianyoung.github.io/</link>
-    <description>Recent content on lyy个人博客</description>
+    <title>自我觉察 on lyy个人博客</title>
+    <link>https://chianyoung.github.io/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/</link>
+    <description>Recent content in 自我觉察 on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 03 Apr 2023 09:20:25 +0800</lastBuildDate>
     
-	<atom:link href="https://chianyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chianyoung.github.io/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Markdown语法学习测试</title>
-      <link>https://chianyoung.github.io/post/blog/</link>
-      <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/blog/</guid>
-      <description>字体 *用**括住表示斜体，或者_ _括住*
-**加粗，开头，结尾，以 **开头和结尾 **
-段落 ## 二级标题 CTRL+2 ……
-六级标题 ctrl+6  引用效果
-  段落的，标识符和文字间有空格，符号为英文
-    演示列表 还可以有层级   666 77   爱丽丝  插入文章或其他元素 最常见的就是通过 []() 来插入链接和 ![]() 来插入图片（可以是本地图片也可以是网络图片）
-少数派
-dsjaflkjdkfjdkjfljdslfjdlkfj</description>
-    </item>
     
     <item>
       <title>戒断手机总结</title>
@@ -55,24 +39,6 @@ dsjaflkjdkfjdkjfljdslfjdlkfj</description>
 适合自己的相应的对策
 合理应用手机tips：
  软件断舍离，只用必须的 注意力。关通知。群勿扰。 社交媒体固定时间浏览，比如午饭间。限制时间。 记录自己每天屏幕使用时间 清楚自己打开手机究竟要干嘛，是不是必需。有意识。自我觉察。 找到自己热爱的事情 回归现实中沟通 让大脑默认不玩手机，而不是玩手机。 使用专注软件，定下目标要专注几个小时 屏幕调整灰度模式（ios）或者全色盲（安卓） 场景禁用：如上床。图书馆。  总结：确实反思的还比较浅显，仅供自己参考。不可能一蹴而就，就像最近刷手机时间仍然很长。但希望自己能意识到这个问题并不断改善。网上有很多都说工作什么的不可能离开手机，还是希望少找借口，多找方法。也不求非得不使用，而是在自己力所能及的范围内力求最大改变，找到适合自己的生活方式。</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://chianyoung.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/about/</guid>
-      <description>出生日期：2001.02.20（农历）
-星座：双鱼
-性别：男
-INFJ
-尽量现实的理想主义者
-经常做白日梦想家
-自卑到骨子里的极致自恋狂
-爱好：写不下了
-Love you more than i can say.
-社交媒体：</description>
     </item>
     
   </channel>

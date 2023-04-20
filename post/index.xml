@@ -5,22 +5,13 @@
     <link>https://chianyoung.github.io/post/</link>
     <description>Recent content in Posts on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Apr 2023 10:16:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 09:20:25 +0800</lastBuildDate>
     
 	<atom:link href="https://chianyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>4</title>
-      <link>https://chianyoung.github.io/post/4.5/</link>
-      <pubDate>Thu, 06 Apr 2023 10:16:37 +0800</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/4.5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown语法学习</title>
+      <title>Markdown语法学习测试</title>
       <link>https://chianyoung.github.io/post/blog/</link>
       <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
       
@@ -36,131 +27,34 @@ dsjaflkjdkfjdkjfljdslfjdlkfj</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://chianyoung.github.io/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>戒断手机总结</title>
+      <link>https://chianyoung.github.io/post/%E6%88%92%E6%96%AD%E6%89%8B%E6%9C%BA%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
       
-      <guid>https://chianyoung.github.io/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://chianyoung.github.io/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://chianyoung.github.io/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://chianyoung.github.io/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Test 9</title>
-      <link>https://chianyoung.github.io/post/test-9/</link>
-      <pubDate>Thu, 09 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-9/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut accumsan sem, imperdiet malesuada erat. Nam condimentum eu turpis a suscipit. Nulla leo arcu, feugiat ac orci eget, imperdiet posuere dui. In laoreet rutrum nisi vitae pretium. Aliquam id fermentum diam, et hendrerit mi. Praesent eget tristique augue. Donec a malesuada nulla, sit amet bibendum libero. Cras id eleifend enim.
- You think you&amp;rsquo;ve got problems? What are you supposed to do if you are a manically depressed robot?</description>
-    </item>
-    
-    <item>
-      <title>Test 8</title>
-      <link>https://chianyoung.github.io/post/test-8/</link>
-      <pubDate>Wed, 08 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-8/</guid>
-      <description>Test 8</description>
-    </item>
-    
-    <item>
-      <title>Test 7</title>
-      <link>https://chianyoung.github.io/post/test-7/</link>
-      <pubDate>Tue, 07 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-7/</guid>
-      <description>Test 7</description>
-    </item>
-    
-    <item>
-      <title>Test 6</title>
-      <link>https://chianyoung.github.io/post/test-6/</link>
-      <pubDate>Mon, 06 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-6/</guid>
-      <description>Test 6</description>
-    </item>
-    
-    <item>
-      <title>Test 5</title>
-      <link>https://chianyoung.github.io/post/test-5/</link>
-      <pubDate>Sun, 05 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-5/</guid>
-      <description>Test 5</description>
-    </item>
-    
-    <item>
-      <title>Test 4</title>
-      <link>https://chianyoung.github.io/post/test-4/</link>
-      <pubDate>Sat, 04 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-4/</guid>
-      <description>Test 4</description>
-    </item>
-    
-    <item>
-      <title>Test 3</title>
-      <link>https://chianyoung.github.io/post/test-3/</link>
-      <pubDate>Fri, 03 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-3/</guid>
-      <description>Test 3</description>
-    </item>
-    
-    <item>
-      <title>Test 2</title>
-      <link>https://chianyoung.github.io/post/test-2/</link>
-      <pubDate>Thu, 02 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-2/</guid>
-      <description>Test 2</description>
-    </item>
-    
-    <item>
-      <title>Test 1</title>
-      <link>https://chianyoung.github.io/post/test-1/</link>
-      <pubDate>Wed, 01 Jan 1012 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/post/test-1/</guid>
-      <description>Test 1 I am referencing a footnote1
-1package main23import &amp;#34;fmt&amp;#34;45func main() {6 fmt.Println(&amp;#34;{linenos=inline}&amp;#34;)7}1 2 3 4 5 6 7  package mainimport &amp;#34;fmt&amp;#34;func main() {fmt.Println(&amp;#34;{linenos=table}&amp;#34;)}  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor.Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros.  I am the footnote &amp;#x21a9;&amp;#xfe0e;</description>
+      <guid>https://chianyoung.github.io/post/%E6%88%92%E6%96%AD%E6%89%8B%E6%9C%BA%E6%80%BB%E7%BB%93/</guid>
+      <description>戒断手机挑战总结 西八，当初就不应该夸下海口，说写什么总结，现在真吐不出什么象牙。20号了，当初定的期限的最后一天，利用ddl这一生产力吧。我知道说什么没有时间都是借口，只是我认为不够重要罢了。迟到的总结，也算是给自己一个交代。
+实践原因：
+实践的必要性：许多人不太理解。事实是，我们都有一颗想改变的心，但却很难做到。因为这些产品设计出来就是榨干我们的注意力的，哪能那么轻易戒掉。而实践带来的感受是深刻的。这种更强制的手段或许是不错的选择。
+**实验结果评价：**完成程度良好：没有看智能手机；没有登陆微信，qq，等社交平台；没有浏览”新“闻。我确实没有什么证据，但你如果看我电脑使用时长，便会发现根本没有看手机的时间^_^。但看电脑毕也是我允许的，竟不具备便携性，不能随时随地。总不能躺在床上看吧……
+好在没有什么特别重要事情，就错过了一次会议，难受的是被老师批评了一顿，说不像话！？？？。这周杂事也特别少，认识了一堆有趣的朋友，一起打发时间，蛮有趣的。
+倒是欠了大把债务。去日新楼吃饭带了饭卡，没想到转了一圈没有一个能刷的以后便使用现金。没想到餐厅还不收现金，好在朋友在旁边，接下来就是蹭吃蹭喝的时光。赊账。溜了，溜了，又来讨债了。
+总体感受：
+做起来真没有那么难，但却会使我们望而生畏。高中时候理所应当的事，为何现在做起来却看似不可思议？觉得现在更具有主动性，在能选择的范围内你会选择”最舒服“的。就比如关闭手机之后，我没有选择学习看书之类的的事情，而是选择了在电脑补完了拖了几个月的电影，不瞒你说，现在连静下来看个电影的心都没有了。只有在去厕所的时候才会选择拿一本书，搬个电脑去emmm也不是不行，不方便。
+明显感受不同之处：学习进入心流状态。遇到困难不会选择刷手机逃避，而是去解决问题。更在意现实中的东西，发注意到了之前没看见的地方。精神状态极好。好在很多时候都忘了还可以玩手机。
+刚拿到手机甚至就看下重要通知就放在一旁了。因为我感觉很多都不重要了。
+明显不适：
+ 吃饭支付，非常不方便 地图，还好没出去，不然回不了家了 记账不方便，得写在纸上 信息的沟通不方便，但发现说的很多都是废话。  良好感觉：
+ 更关注于现实生活 吃饭能聊天 更能分享表达自己的看法。 成就感，完成了期待已久的挑战 工作学习更加认真，进入心流状态 视力好很多 完全能接受不带手机去做其他事情 专注于当下的事情 发生的事情记录到本子上 一些看似很难其实并不多难 焦虑感明显减少，网络上人均各种方面碾压众人。幸存者偏差。但现实不是这样。 能去做一件事。之前信息爆炸摄入太多，什么都想做，结果一事无成。 遇到了一群有趣的朋友，一起消磨时光。 自认为吸引力：爆炸信息&amp;gt;社交媒体&amp;gt;电影/剧&amp;gt;书籍 一次真正做一件事。没有多任务并行。 有效思考变多。 阈值逐渐降低，能静下来完成一些事情。 如何放松：刷短视频时被动娱乐，接受一些垃圾信息，看完几乎没有收获，不如主动娱乐：玩个乐器，跳舞，书画，健身等 信息摄入减少头脑清醒了许多：研究表明洗澡时候最有想法和创造力。因为这个时候   当我们淋浴时，我们的感官被封闭了，接收不到外界的新鲜信息。这就迫使我们活跃的大脑转向「内在」，去聚焦和遍历那些储存在记忆里的想法、念头和观念，然后放出些平时被知觉阈限所关住的东西。
+ 手机成瘾原因分析：
+ 首先不在于我们。手机设计出来就是为了让我们成瘾。不上瘾，怎么捞钱？ 一直在利用人性榨干我的精力和时间，而且越来越无下限。“红点”引人注目。甚至运营商还发短信提醒我刷视频，艹。 提前透支自己的“人生体会” 让我们在虚拟世界体会到“美好”。 肌肉记忆  ……
+想改变需要具备条件：
+想改变的决心
+想改变的勇气，be not afraid
+自我觉察意识，剖析自己现状
+分析原因
+适合自己的相应的对策
+合理应用手机tips：
+ 软件断舍离，只用必须的 注意力。关通知。群勿扰。 社交媒体固定时间浏览，比如午饭间。限制时间。 记录自己每天屏幕使用时间 清楚自己打开手机究竟要干嘛，是不是必需。有意识。自我觉察。 找到自己热爱的事情 回归现实中沟通 让大脑默认不玩手机，而不是玩手机。 使用专注软件，定下目标要专注几个小时 屏幕调整灰度模式（ios）或者全色盲（安卓） 场景禁用：如上床。图书馆。  总结：确实反思的还比较浅显，仅供自己参考。不可能一蹴而就，就像最近刷手机时间仍然很长。但希望自己能意识到这个问题并不断改善。网上有很多都说工作什么的不可能离开手机，还是希望少找借口，多找方法。也不求非得不使用，而是在自己力所能及的范围内力求最大改变，找到适合自己的生活方式。</description>
     </item>
     
   </channel>
