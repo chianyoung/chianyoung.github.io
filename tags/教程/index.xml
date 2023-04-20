@@ -26,5 +26,14 @@
 dsjaflkjdkfjdkjfljdslfjdlkfj</description>
     </item>
     
+    <item>
+      <title>Hugo博客更新命令</title>
+      <link>https://chianyoung.github.io/post/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E5%91%BD%E4%BB%A4/</guid>
+      <description>#提交更新（在pubilc上一级目录打开git bash） hugo --theme=m10c --baseUrl=&amp;#34;https://chianyoung.github.io&amp;#34; --buildDrafts cd public git add . git commit -m &amp;#34;first commit&amp;#34; git push -u origin main git push --force#强推，若最后一步失败尝试这个 </description>
+    </item>
+    
   </channel>
 </rss>
