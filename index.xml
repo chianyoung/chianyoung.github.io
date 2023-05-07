@@ -76,7 +76,7 @@
     </item>
     
     <item>
-      <title>Hugo博客搭建</title>
+      <title>Hugo个人博客搭建教程</title>
       <link>https://chianyoung.github.io/post/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
@@ -117,6 +117,15 @@ git clone &amp;lt;https://github.com/vaga/hugo-theme-m10c.git&amp;gt; themes/m10
     演示列表 还可以有层级   666 77   爱丽丝  插入文章或其他元素 最常见的就是通过 []() 来插入链接和 ![]() 来插入图片（可以是本地图片也可以是网络图片）
 少数派
 dsjaflkjdkfjdkjfljdslfjdlkfj</description>
+    </item>
+    
+    <item>
+      <title>xxxxxx</title>
+      <link>https://chianyoung.github.io/post/default/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/default/</guid>
+      <description></description>
     </item>
     
     <item>
