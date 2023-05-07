@@ -33,8 +33,9 @@ git clone &amp;lt;https://github.com/vaga/hugo-theme-m10c.git&amp;gt; themes/m10
 以后：直接在文件夹下增添或修改md文件即可
 可再输入：hugo server -t m10c --buildDrafts 网站会更新，因为你增添了新的内容。但是是搭载在本地。
 把博客部署到远端GitHub上  （1）创建仓库，命名为：chianyoung.github.io（前面替换为你自己的）
-​	（2）hugo --theme=m10c --baseUrl=&amp;quot;地址&amp;quot; --buildDrafts 成功后根目录生成一个public文件夹
-（3）将public上传到github仓库上</description>
+（2）hugo --theme=m10c --baseUrl=&amp;quot;地址&amp;quot; --buildDrafts 成功后根目录生成一个public文件夹
+（3）将public上传到github仓库上
+ git init git add .</description>
     </item>
     
     <item>
