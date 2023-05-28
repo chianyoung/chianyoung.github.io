@@ -5,10 +5,32 @@
     <link>https://chianyoung.github.io/</link>
     <description>Recent content on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 May 2023 12:06:42 +0800</lastBuildDate>
     
 	<atom:link href="https://chianyoung.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R语言初学</title>
+      <link>https://chianyoung.github.io/post/r%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sat, 27 May 2023 12:06:42 +0800</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/r%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E7%AC%94%E8%AE%B0/</guid>
+      <description>简介： 学习目的：绘图；编程；找事情做，战胜空虚感！
+RStudio界面分区：  控制台（Console）：用于执行R代码并显示运行结果； 编辑器（Source）：用于编写和保存R代码文件； 环境和历史记录（Environment and History）：用于管理R对象和历史命令； 图形设备（Plots）：用于显示基于R生成的图形输出。  基本配置： 设置工作路径：Crtl+Shift+H 或鼠标Session&amp;gt;set……
+设置主题：tools&amp;gt;global options&amp;gt;appearance
+输出图片：纯英文图片，推荐使用pdf输出，常用（6：8）尺寸
+导入预览数据集：Environment，有个Import Dataser 
+package包： pacman::p_load(pacman, dplyr, GGally, ggplot2, ggthemes, ggvis, httr, lubridate, plotly, rio, rmarkdown, shiny, stringr, tidyr)#::不加载pacman而使用包里的函数 只需第一次安装，但以后每次用需要加载
+pacman： 好用的包管理器：一次下载，加载多个包，不需要每个都用每次使用时都调用library()函数
+  安装一个或多个包：
+install.packages(&amp;#34;pacman&amp;#34;)p_install(&amp;#34;ggplot2&amp;#34;)p_install(&amp;#34;dplyr&amp;#34;, &amp;#34;tidyverse&amp;#34;)上述代码中，install.packages()函数是R原始的安装包函数，而p_install()是pacman包中的函数，用于安装指定的包。
+  加载一个或多个包：
+**library(pacman)p_load(&amp;#34;ggplot2&amp;#34;)p_load(c(&amp;#34;dplyr&amp;#34;, &amp;#34;tidyverse&amp;#34;))** #使用一个字符向量参数：通过将多个包名称整理成一个字符串向量参数来指定要卸载的包 #p_load两种写法，正常就是引用字符串 p_load()函数用于加载指定的包，可以一次性加载多个包，而不需要每次使用时都调用library()函数。
+  卸载一个或多个包：
+p_unload(&amp;#34;ggplot2&amp;#34;)p_unload(c(&amp;#34;dplyr&amp;#34;, &amp;#34;tidyverse&amp;#34;))p_uninstall(&amp;#34;pacman&amp;#34;)p_unload()用于卸载指定的包，在长时间使用多个包时可以释放内存。p_uninstall()函数是pacman中的函数，可以用来卸载指定的包。
+  显示已经安装的包及其状态：</description>
+    </item>
     
     <item>
       <title>00Flow心流简介</title>
@@ -142,8 +164,6 @@ dsjaflkjdkfjdkjfljdslfjdlkfj</description>
 MBTI：INFJ
 理想主义者
 白日梦想家
-You only live once.
-想做一个即知即行的人
 stay hungry, stay foolish.
 Hobbies： 💃 🎵🎬🛹📚
 🎸🌷 🖋️🎨 📷 💌📆📙💜
@@ -153,7 +173,9 @@ Professionals：
 社交媒体：
 豆瓣
 公众号
-小红书</description>
+小红书
+个人AI_chatGPT网址：www.liuyuyang.art
+个人邮箱：liuyy1319@mails.jlu.edu.cn</description>
     </item>
     
   </channel>
