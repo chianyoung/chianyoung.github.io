@@ -5,10 +5,44 @@
     <link>https://chianyoung.github.io/post/</link>
     <description>Recent content in Posts on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chianyoung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>文献管理入门</title>
+      <link>https://chianyoung.github.io/post/zotero/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chianyoung.github.io/post/zotero/</guid>
+      <description>有些是不会做，但不得不做的时候，我会赋予它一个意义。任何时候都可以看作是提升自己的机会。
+如果其中有一点步骤对某人有一点用，价值就达到了。
+Steve jobs：对产品的看法，必须从用户的体验入手，再回到技术上。不能从技术上入手，再回到用户体验上。
+对于任何软件的学习，不能是直接全部学习所有功能，结果很多根本不会用到。而是有了需求，再去找这个软件，学习使用。
+产品设计的思想是这样的，有了懒得买饭做饭的需求，才有了外卖平台……
+使用产品也是一样的，比如购物，一定是有了这个需求，才去买，没有人家里弄个仓库，以防万一未来会用到。手机下载软件。不可能全部下载。因为有内存成本。学习也是一样，时间成本，生命就那么长，要及时行乐。传统的教育观念，学习就是好的，并不见得，如何平衡学习和休息才重要。
+所以用到再去学就好。
+延伸到任何学习，不能盲目无目的。之前的大忌
+（以上为自我反省，与内容无关可忽略）
+ 因为内容网上都有，大家只需要简单听听就行，
+为方便大家浏览回顾，本教程
+文字版本会上传到个人博客：liuyuyang.art
+培训视频会录制并上传bilibili：不懂艺术抑术家
+教程不求详尽，只求实用。
+   为什么需要看文献
+ 什么被别人做过了，避免做无用功 别人在做什么，怎么做 自己可以做什么：研究方向，方法，idea， ……    为何做文献管理
+方便查找。就像整理房间，拿，而不是找。
+  文献库
+  PubMed (nih.gov)
+最常用
+基本检索，筛选
+  Web of Science
+大型综合性、多学科、核心期刊引文索引数据库
+  Semantic Scholar | AI-Powered Research Tool
+  简介：
+2015 年 11 月 2 日，微软联合创始人 Paul Allen 旗下的艾伦人工智能研究所 （Allen Institute for Artificial Intelligence，AI2）发布了一款名为 Semantic Scholar 的免费学术搜索引擎，目标是「破除混沌（cut through the clutter）」，帮助科研用户从浩如烟海的文献中快速筛选有用信息，减少检索时间，提升工作效率。</description>
+    </item>
     
     <item>
       <title>摄影理论入门</title>

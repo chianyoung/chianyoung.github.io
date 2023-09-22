@@ -5,10 +5,19 @@
     <link>https://chianyoung.github.io/tags/</link>
     <description>Recent content in Tags on lyy个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://chianyoung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>教程</title>
+      <link>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>兴趣爱好</title>
@@ -43,15 +52,6 @@
       <pubDate>Mon, 03 Apr 2023 09:20:25 +0800</pubDate>
       
       <guid>https://chianyoung.github.io/tags/%E8%87%AA%E6%88%91%E8%A7%89%E5%AF%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>教程</title>
-      <link>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</link>
-      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://chianyoung.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     
